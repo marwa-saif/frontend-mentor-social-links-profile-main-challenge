@@ -48,8 +48,8 @@ h1 {
 }
 
 .container {
-    width: 320px;
-    margin: 130px auto;
+    width: 350px;
+    margin: 140px auto;
     padding: 40px;
     background-color: var(--grey-color-800);
     text-align: center;
@@ -71,7 +71,7 @@ h1 {
 
 .container h2 {
     font-weight: 700;
-    margin: 10px 0 5px;
+    margin: 30px 0 5px;
     font-size: 25px;
 }
 
